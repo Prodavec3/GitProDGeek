@@ -1,0 +1,14 @@
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\bin\Debug\netcoreapp3.1\Ex001.exe
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\bin\Debug\netcoreapp3.1\Ex001.deps.json
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\bin\Debug\netcoreapp3.1\Ex001.runtimeconfig.json
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\bin\Debug\netcoreapp3.1\Ex001.runtimeconfig.dev.json
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\bin\Debug\netcoreapp3.1\Ex001.dll
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\bin\Debug\netcoreapp3.1\Ex001.pdb
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\obj\Debug\netcoreapp3.1\Ex001.csproj.AssemblyReference.cache
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\obj\Debug\netcoreapp3.1\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\obj\Debug\netcoreapp3.1\Ex001.AssemblyInfoInputs.cache
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\obj\Debug\netcoreapp3.1\Ex001.AssemblyInfo.cs
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\obj\Debug\netcoreapp3.1\Ex001.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\obj\Debug\netcoreapp3.1\Ex001.dll
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\obj\Debug\netcoreapp3.1\Ex001.pdb
+C:\Users\Юрий\Desktop\GitCode\codePractice1\Ex001\obj\Debug\netcoreapp3.1\Ex001.genruntimeconfig.cache

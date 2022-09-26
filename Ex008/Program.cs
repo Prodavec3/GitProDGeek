@@ -33,7 +33,7 @@ void IndexOf(int[] collectionFindIndex, int find)
     }
     if (!founded)
     {
-        Console.WriteLine("Такого числа не найдено");
+        Console.WriteLine("Такого числа в массиве не найдено");
     }
 }
 

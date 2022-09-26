@@ -7,6 +7,8 @@
         collection[index] = new Random().Next(1, 100);
         index++;
     }
+    collection[2] = 5;
+    collection[9] = 5;
 }
 
 void PrintArray(int[] collectionPrint)
@@ -17,7 +19,26 @@ void PrintArray(int[] collectionPrint)
     }
 }
 
+void IndexOf(int[] collectionFindIndex, int find)
+{
+    bool founded = false;
+    for (var i = 0; i < collectionFindIndex.Length; i++)
+    {
+        if (collectionFindIndex[i] == find)
+        {
+            Console.WriteLine("Число: " + find + " находится на ближайшей к началу позиции - " + i);
+            founded = true;
+            break;
+        }
+    }
+    if (!founded)
+    {
+        Console.WriteLine("Такого числа не найдено");
+    }
+}
+
 int[] array = new int[10]; // 10 элементов в массиве определили, наполнен 0
 
 AddArray(array);
 PrintArray(array);
+IndexOf(array, 5);

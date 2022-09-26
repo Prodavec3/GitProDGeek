@@ -36,6 +36,28 @@ void SelectionSort(int[] array)
         array[minPos] = temporary; // с буферной переменной пишем значение откуда забрали наименьшее число
     }
 }
+
+void SortZXC(int[] array)
+{
+    for(int i = 0; i < array.Length - 1; i++)
+    {
+        int maxPos = i;
+
+        for (int j = i+1; j < array.Length; j++)
+        {
+            if (array[j] > array[maxPos])
+            {
+                maxPos = j;
+            }
+        }
+        int temporary = array[i]; // буферная переменная для сохранения значения в выбранной ячейке, туда пишем наибольшее из найденных
+        array[i] = array[maxPos]; // записываем наибольшее число из найденных в iую ячейку
+        array[maxPos] = temporary; // с буферной переменной пишем значение откуда забрали наименьшее число
+    }
+}
+
 PrintArray(array);
 SelectionSort(array);
+PrintArray(array);
+SortZXC(array);
 PrintArray(array);

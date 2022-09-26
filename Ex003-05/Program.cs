@@ -7,3 +7,5 @@ b = new Random().Next(0, 10); //0..9
 Console.WriteLine("A: " + a + ", B: " + b);
 c = a + b;
 Console.WriteLine("Сумма: " + c);
+
+// param.ToLower() - привести к нижнему регистру

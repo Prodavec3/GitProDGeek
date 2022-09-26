@@ -1,0 +1,15 @@
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\bin\Debug\net6.0\Ex003-05.exe
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\bin\Debug\net6.0\Ex003-05.deps.json
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\bin\Debug\net6.0\Ex003-05.runtimeconfig.json
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\bin\Debug\net6.0\Ex003-05.dll
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\bin\Debug\net6.0\Ex003-05.pdb
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\Ex003-05.csproj.AssemblyReference.cache
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\Ex003-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\Ex003-05.AssemblyInfoInputs.cache
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\Ex003-05.AssemblyInfo.cs
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\Ex003-05.csproj.CoreCompileInputs.cache
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\Ex003-05.dll
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\refint\Ex003-05.dll
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\Ex003-05.pdb
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\Ex003-05.genruntimeconfig.cache
+C:\Users\ybiryukov\Desktop\Git\Ex003-05\obj\Debug\net6.0\ref\Ex003-05.dll

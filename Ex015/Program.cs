@@ -27,10 +27,15 @@ int SumFor(int n)
     for (int i = 0; i <= n; i++) result += 1;
         return result;
 }
-int SumRec(int n)
+string? SumRec(int n)
 {
-    if (n==0) return 0;
-    else return n + SumRec(n-1);
+    while (n > 0)
+    {
+        return ($"{n + SumRec(n-1)}");
+    }
+    return "";
+    //if (n==0) return 0;
+   //else return n + SumRec(n-1);
 }
 Console.WriteLine(SumFor(20));
 Console.WriteLine(SumRec(20));
